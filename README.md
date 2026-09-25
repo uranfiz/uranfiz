@@ -57,9 +57,8 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats-two.vercel.app/api?username=uranfiz&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <img height="180" src="https://github-readme-stats-two.vercel.app/api/top-languages/?username=uranfiz&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uranfiz&theme=2077" alt="GitHub Stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=uranfiz&theme=2077" alt="Top Languages" />
 
   <br/><br/>
 
@@ -71,11 +70,11 @@
 
 ---
 
-### 📈 Активность
+### 📈 График активности
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/uranfiz/uranfiz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" onerror="this.src='https://cdn.jsdelivr.net/gh/Platane/snk@master/docs/github-contribution-grid-snake-dark.svg'" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uranfiz&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 
