@@ -57,12 +57,13 @@
 
 <div align="center">
 
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uranfiz&theme=2077" alt="GitHub Stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=uranfiz&theme=2077" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uranfiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-languages/?username=uranfiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uranfiz&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uranfiz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -74,7 +75,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uranfiz&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uranfiz&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
 </div>
 
