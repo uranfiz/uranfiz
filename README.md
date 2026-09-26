@@ -39,11 +39,11 @@
 
 ---
 
-### 🤝 Команда & Напарник
+### 🤝 Команда
 
 <div align="center">
 
-| Друг, напарник и коллега по проектам |
+| Друг и напарник |
 | :---: |
 | <a href="https://github.com/Nyashka17"><img src="https://github.com/Nyashka17.png" width="100" style="border-radius:50%;" alt="Nyashka17"/><br/><sub><b>@familiarrrrrr</b></sub></a><br/><br/><a href="https://github.com/Nyashka17"><img src="https://img.shields.io/badge/GitHub-Nyashka17-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://t.me/familiarrrrrr"><img src="https://img.shields.io/badge/Telegram-@familiarrrrrr-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a> |
 
