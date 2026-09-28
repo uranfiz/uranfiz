@@ -53,6 +53,22 @@
 
 ---
 
+### 💰 Криптокошельки
+
+<div align="center">
+
+| Монета | Адрес |
+| :---: | :--- |
+| 💎 **TON (Gram)** | <code>UQAMH9E3itesAOJ3bULUlTH2gZHR6GONnH_LnGFvUQtLKYDu</code> |
+| 💎 **TON (Gram)** | <code>devuranium.t.me</code> |
+| ₿ **Bitcoin** | <code>bc1qppw6ea27makajxjg0zh5grwjap2jp5ehal4xns</code> |
+
+</div>
+
+<br/>
+
+---
+
 ### 📊 Статистика GitHub
 
 <div align="center">
