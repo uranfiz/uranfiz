@@ -31,7 +31,7 @@
   
   <br/><br/>
 
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,ubuntu,cloudflare,git,github,vscode,bash&theme=dark" alt="Tools & Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,arch,ubuntu,cloudflare,git,github,vscode,bash&theme=dark" alt="Tools & Infrastructure" />
 
 </div>
 
